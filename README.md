@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bikashparida.
 - 👀 I’m interested in Data science & Data Analytics.
-- 🌱 I’m currently pursuing B.Tech in CS-IT.
-- 💞️ I’m looking to learn more about New technologies .
+- 🌱 I’m currently pursuing B.Tech in Information Technology. 
+- 💞️ I’m looking to learn more about New technologies.
 - 📫 You can reach me through mail paridabikashkumar384@gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
