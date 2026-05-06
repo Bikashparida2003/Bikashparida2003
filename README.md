@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bikash Parida.
-- 👀 I’m interested in Data science & Data Analytics.
+- 👀 I’m interested in Data Engineering.
 - 🌱 I’m currently pursuing my B.Tech in Information Technology. 
 - 💞️ I’m looking to learn more about New technologies.
 - 📫 You can reach me through mail paridabikashkumar384@gmail.com.
